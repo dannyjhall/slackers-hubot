@@ -7,4 +7,4 @@ module.exports = (robot) ->
 
 
   robot.hear /foulkes/i, (msg) ->
-    msg.send "Folks*"
+    msg.send "Foulkes == Legend"
